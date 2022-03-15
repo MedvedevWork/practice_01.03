@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">NetworkMaps</string>
+
+    <string name="btnLogin">Log in</string>
+    <string name="btnReg">Register</string>
+    <string name="btnOK">OK</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnLogout">Log out</string>
+    <string name="btnClose">Close</string>
+    <string name="btnDelete">Delete</string>
+    <string name="bntRename">Rename</string>
+    <string name="cbSave">Save</string>
+    <string name="btnSave">Save</string>
+    <string name="textUser">User:</string>
+    <string name="textPass">Password:</string>
+    <string name="textReg">Registration</string>
+
+    <string name="voltage">voltage</string>
+    <string name="temp">temp</string>
+    <string name="cpu_temp">cpu-temp</string>
+    <string name="memory">memory</string>
+    <string name="cpu1">cpu1</string>
+    <string name="cpu0">cpu0</string>
+    <string name="metrics">Metrics</string>
+    <string name="agent">Agent</string>
+    <string name="address">Address</string>
+    <string name="name">Name</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+</resources>
